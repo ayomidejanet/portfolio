@@ -46,8 +46,8 @@ To validate the quality of the clustering analysis, I performed elbow and silhou
 
 ### Stellar Classification of Stars
 The project focuses on analyzing and classifying astronomical data of stars using machine learning techniques. The main goal is to process the provided star data and train a model to classify stars based on their luminosity class and other features. Additionally, the project involves predicting the absolute magnitude of stars using empirical formulas.
-<https://github.com/ayomidejanet/machine_learning/blob/main/Stars.ipynb)>
+[machine_learning](https://github.com/ayomidejanet/machine_learning/blob/main/Stars.ipynb)
 
 
 ## Blog
-<https://ayomidealabi.substack.com>
+[Substack](https://ayomidealabi.substack.com)
