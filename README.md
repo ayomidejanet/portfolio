@@ -19,7 +19,7 @@
 
   
 ## Work Experience
-**Data Scientist, Vella Finance (_May 2023 - September 2023_)** 
+**Data Scientist, Vella Finance (_May 2023 - present_)** 
 - Engaged in data cleaning, preprocessing, and feature engineering.
 - Developed a recommendation system for personalized financial products using collaborative filtering algorithms.
 - Developed a GARCH time series model for predicting asset volatility. 
@@ -42,11 +42,12 @@
 In this project, the aim was to classify and indicate the type of ice or liquid state for each snapshot of 250 water molecules where each line of the file represented the coordinates of 750 atoms, resulting in a total of 2250 columns.
 To analyze this dataset effectively, I reshaped the feature vector of dimension 2250 into a 750 x 3 matrix, essentially creating a 750-dimensional array of 3D vectors. Next, I applied a clustering algorithm to the 1001 feature vectors, which captured the distinct clusters present in the snapshots.
 To validate the quality of the clustering analysis, I performed elbow and silhouette analysis. These techniques helped identify the optimal cluster number and evaluated the separation quality within each cluster. Lastly, I deployed the optimal model on AWS sagemaker.
-[clustering project](https://github.com/ayomidejanet/machine_learning/blob/main/water_molecules.ipynb)
+
+[link](https://github.com/ayomidejanet/machine_learning/blob/main/water_molecules.ipynb)
 
 ### Stellar Classification of Stars
 The project focuses on analyzing and classifying astronomical data of stars using machine learning techniques. The main goal is to process the provided star data and train a model to classify stars based on their luminosity class and other features. Additionally, the project involves predicting the absolute magnitude of stars using empirical formulas.
-[classification project](https://github.com/ayomidejanet/machine_learning/blob/main/Stars.ipynb)
+[link](https://github.com/ayomidejanet/machine_learning/blob/main/Stars.ipynb)
 
 
 ## Blog
